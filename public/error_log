@@ -1,0 +1,1 @@
+[12-Sep-2021 03:22:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.30. in /home3/goldemko/dntcoatdapi.goldeninfotech.com.bd/vendor/composer/platform_check.php on line 24
